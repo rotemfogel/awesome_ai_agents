@@ -23,7 +23,51 @@ Dive in, learn, collaborate, and build the next generation of AI agents.
 
 ⭐ **Don't forget to give this repository a star if you find it useful!**  
 
-🎉 *Let’s build a thriving AI agent ecosystem together!*
+🎉 *Let's build a thriving AI agent ecosystem together!*
+
+---
+
+## 🎉 Upcoming Event: Agents Connect Conference
+
+<div align="center">
+
+### **Agents Connect: The All-Demo Conference**
+
+Join us for the premier AI agent conference where innovators, investors, and users come together to shape the future of AI agents.
+
+**🎉 FREE TO ATTEND - No registration fee required!**
+
+**📅 Date:** Monday, December 15, 2025  
+**⏰ Time:** 12:00 PM – 3:00 PM PST (America/Los_Angeles)  
+**📍 Location:** Fully Virtual Event
+
+**[👉 Sign up and learn more](https://agents.blog/agent-connect)**
+
+</div>
+
+**About the Conference:**
+
+Agents Connect: The All-Demo Conference is where AI agent innovators come together to show, not tell. Watch live agent demos, research prototypes, and reverse pitches from investors. Then connect 1:1 with the people who matter.
+
+This is a fully virtual event for 2025. In-person format coming in future years.
+
+**What to Expect:**
+
+• **Startup Showcase: Live Agent Demos** - Watch 5 selected startups demo their live autonomous agents in real-time
+
+• **Research "Paper-to-Prototype" Demos** - See visual walkthroughs of multi-agent orchestration and new frameworks
+
+• **The Reverse Pitch: Investors & Partners Demo Their Strategy** - VCs and corporate partners show how they work with you
+
+• **Structured 1:1 Networking & Dealmaking** - Curated 1:1 connections with builders, investors, and users
+
+**Who Should Attend:**
+
+• **For Builders:** Pitch, demo, and get funded  
+• **For Users:** Discover the next generation of AI agents  
+• **For Investors:** Find the most promising AI agent startups
+
+**[Sign up and learn more →](https://agents.blog/agent-connect)**
 
 ---
 
